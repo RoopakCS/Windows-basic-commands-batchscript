@@ -1,6 +1,9 @@
 # Windows-basic-commands-batchscript
 Ex08-Windows-basic-commands-batchscript
 
+# Name: Roopak C S
+# Register Number: 212223220088
+
 # AIM:
 To execute Windows basic commands and batch scripting
 
